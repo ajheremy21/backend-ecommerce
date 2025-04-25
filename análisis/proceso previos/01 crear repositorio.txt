@@ -1,0 +1,19 @@
+-Me dirigi hacia github en mi perfil y cree un nuevo repositorio de nombre "backend-ecommerce".
+
+-Deje el repositorio en público y una vez creado me entregó una url con la cual podre vincularlo
+con mis archivos locales.
+
+-Procedi a estructurar mi proyecto para github el cual será el siguiente:
+
+backend
+analisis
+    procesos previos
+    analisis
+    algoritmos
+    diagramas de flujo
+    logica
+    pseudocodigo
+    requerimientos
+    
+
+

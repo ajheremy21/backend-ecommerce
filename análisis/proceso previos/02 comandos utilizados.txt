@@ -1,0 +1,22 @@
+//En mi Equipo, cree una carpeta de nombre backend-ecommerce y realice los siguientes comandos para crear
+mi estructura del proyecto.//
+
+$mkdir backend
+$mkdir analisis
+
+//accedo a la carpeta de analisis para crear las demas carpetas//
+
+$cd analisis
+$mkdir analisis
+$mkdir requerimientos
+$mkdir logica
+$mkdir pseudocodigo
+$mkdir algoritmos
+$mkdir "diagrama de flujos"
+$mkdir "procesos previos"
+
+//Agrego el repositorio remoto a mi proyecto local//
+
+$ git remote add origin https://github.com/ajheremy21/backend-ecommerce.git
+$ git branch -M main
+$ git push -u origin main
