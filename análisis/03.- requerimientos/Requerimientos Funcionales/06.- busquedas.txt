@@ -1,0 +1,4 @@
+crear una seccion de busquedas
+donde se pueda buscar algun producto de la tienda
+Si el producto existe entonces se mostrara 
+Filtros por precio o cantidades.

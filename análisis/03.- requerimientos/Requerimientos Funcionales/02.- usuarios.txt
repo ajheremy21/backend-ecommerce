@@ -1,0 +1,5 @@
+Registro y login del usuario
+Roles: clientes, vendedores, administradores.
+Autenticacion 
+Datos: e-mail, teléfonono, dni, dirección.
+Historial de compras

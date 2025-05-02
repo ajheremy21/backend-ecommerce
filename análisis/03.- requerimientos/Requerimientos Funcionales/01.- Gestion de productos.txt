@@ -1,0 +1,8 @@
+Crear, leer, actualizar y eliminar productos de limpieza.
+Cada producto debe tener:
+Nombre
+Descripción
+Precio
+Stock disponible
+Categoría (desinfectantes, detergentes, escobas, etc.)
+Imagen
