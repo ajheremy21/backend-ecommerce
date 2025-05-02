@@ -9,11 +9,10 @@ backend
 analisis
     procesos previos
     analisis
-    algoritmos
-    diagramas de flujo
-    logica
-    pseudocodigo
     requerimientos
+    logica
+    algoritmos
+    pseudocodigo
+    diagramas de flujo
     
-
 

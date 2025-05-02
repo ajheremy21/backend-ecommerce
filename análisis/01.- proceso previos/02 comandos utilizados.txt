@@ -7,13 +7,14 @@ $mkdir analisis
 //accedo a la carpeta de analisis para crear las demas carpetas//
 
 $cd analisis
+$mkdir "procesos previos"
 $mkdir analisis
 $mkdir requerimientos
 $mkdir logica
-$mkdir pseudocodigo
 $mkdir algoritmos
+$mkdir pseudocodigo
 $mkdir "diagrama de flujos"
-$mkdir "procesos previos"
+
 
 //Agrego el repositorio remoto a mi proyecto local//
 

@@ -1,0 +1,16 @@
+Para este proyecto opté por realizar un ecommerce sobre la venta de productos de limpieza.
+
+¿Que funciones va a cumplir el proyecto?
+
+Poder mostrar productos, agregar a un carrito de compras, el poder realizar el pago,
+poder ver el stock disponible, poder agregar mas stock o reducirlo segun se hagan compras.
+Que haya usuarios con contraseñas.
+Definir a los usuarios(clientes, administradores, vendedores, etc).
+
+
+¿Que deberia restringir la aplicacion?
+
+Si el carrito de compras excede el stock que no deje realizar la compra.
+Debe actualizarce el stock si algun producto fue comprado.
+Los usuarios no podran acceder si no ingresan con una contraseña correcta.
+
