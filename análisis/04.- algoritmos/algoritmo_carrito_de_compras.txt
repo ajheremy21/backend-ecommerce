@@ -1,0 +1,6 @@
+1.- Elegir los productos que se van a comprar al carrito
+2.- Analizar los precios de cada producto del carrito de compras
+3.- Hacer una suma total del carrito de compras 
+4.- Mostrar los productos seleccionados con su precio
+5.- Mostrar el total de los productos
+6.- Finalizar la ejecucion para proceder el pago
