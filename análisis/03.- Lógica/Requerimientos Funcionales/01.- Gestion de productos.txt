@@ -1,0 +1,13 @@
+Crear, leer, actualizar y eliminar productos de limpieza.
+Cada producto debe tener:
+Nombre
+Descripción
+Precio
+Stock disponible
+Categoría 
+si se desea agregar mas productos de stock, primero tendremos que validar, que cumplan con lo indicado:
+El producto sea de limpieza
+el nombre, precio y stock sean correctos.
+El sistema debe permitir agregar un nuevo producto con el nombre, descripcion, precio, stock
+y categoria.
+si el producto ya exite, debe mostrar un error.
