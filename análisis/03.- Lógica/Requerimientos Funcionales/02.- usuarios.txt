@@ -1,0 +1,12 @@
+Registro y login del usuario
+Roles: clientes, vendedores, administradores.
+Autenticacion 
+Datos: e-mail, teléfonono, dni, dirección.
+Historial de compras
+Se desea registrar usuarios nuevos para el sistema, el administrador y los usuarios que se registren con su correo
+y contraseña.
+Para que el usuario tenga un registro exitoso, tendra que escribir un usuario y crear una contraseña 
+segura, que cuenta por lo menos con minusculas, mayusculas, numeros y un signo.
+Luego de eso la cuenta se registra, pero si el correo ya esta en uso, debe botar un error al crear, si la contraseña, no 
+cumple con los requisitos mencionados, tampoco dejara crear la cuenta,
+Si se cumple ambas condiciones, la cuenta se registrara correctamente.

@@ -1,0 +1,6 @@
+1.- Recibir el correo del usuario
+2.- Recibir la contraseña generada
+3.- Validar las credenciales
+4.- Si el nombre del usuario esta en uso o incorrecto, mostrar errror
+5.- Si la contraseña no cumple con los requisitos pedidos, mostrar error
+6.- Si se cumplen ambas condiciones, registrar usuario.
