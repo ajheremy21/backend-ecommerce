@@ -1,6 +1,0 @@
-1.- Recibir los datos del producto
-2.- Verificar que los datos esten completos
-3.- Verificar que el producto ya existe
-4.- Si el producto ya existe, mostrar mensaje error
-5.- Si no existe el producto, agregarlo al sistema
-6.- Mostrar mensaje de exito al agregar el producto

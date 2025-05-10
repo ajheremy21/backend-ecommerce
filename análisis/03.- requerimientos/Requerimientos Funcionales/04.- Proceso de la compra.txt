@@ -1,4 +1,0 @@
-Simular una compra donde se guarden los productos que se han seleccionado
-Reducir automaticamente el stock de los productos que se hayan comprado
-Mostrar el resumen del pedido
-Realizar el pago

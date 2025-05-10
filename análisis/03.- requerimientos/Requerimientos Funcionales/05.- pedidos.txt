@@ -1,3 +1,0 @@
-Revisar los pedidos
-Mostrar la direccion 
-mostrar el usuario que lo compró

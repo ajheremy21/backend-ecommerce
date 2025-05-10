@@ -1,4 +1,0 @@
-Agregar y eliminar productos del carrito
-Actualizar las cantidades
-Calcular automaticamente el precio total del carrito
-Si un producto no tiene stock, no dejar comprarlo
