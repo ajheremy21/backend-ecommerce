@@ -1,0 +1,11 @@
+1.- Dirigirse al proceso de pago luego de elegir los productos
+2.- Mostrar los productos comprados e importe total
+3.- Elegir el metodo de pago (Yape o Tarjeta )
+4.- Si Usuario elije Yape, Plin o Pago efectivo mostrar un codigo de pago
+5.- Usuario digita el codigo para realizar el pago
+6.- Pago procesado y realizado
+7.- Si usuario elije Tarjeta colocar datos de Tarjeta
+8.- Simular una tarjeta con digitos
+9.- Si el numero de tarjeta es incorrecta arroja un error
+10.- Si la tarjeta es correcta aceptar el pago
+11.- Fin de proceso de Pago

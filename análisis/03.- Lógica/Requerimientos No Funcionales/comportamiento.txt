@@ -1,0 +1,27 @@
+1. Estructura del código
+Uso de programación orientada a objetos (clases para productos, usuarios, pedidos).
+
+Separación lógica de funciones: mantener modularidad en el código.
+
+2. Persistencia de datos
+Uso de localStorage o JSON simulado para almacenar datos temporalmente.
+
+3. Rendimiento y escalabilidad
+El sistema debe manejar al menos 10 productos y múltiples operaciones sin errores.
+
+El código debe estar optimizado y sin duplicaciones innecesarias.
+
+4. Seguridad
+Validación de datos (ej. no permitir agregar un producto sin nombre o precio).
+
+Protección mínima de rutas o funciones críticas para administradores.
+
+5. Mantenibilidad
+Código comentado, organizado, y fácil de entender.
+
+Buen uso de nombres de variables y estructuras claras.
+
+6. Automatización
+Scripts para cargar productos iniciales o limpiar la base simulada.
+
+Uso de Git para control de versiones, con commits frecuentes y mensajes descriptivos.
