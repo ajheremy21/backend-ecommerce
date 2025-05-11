@@ -1,0 +1,9 @@
+1.- Ingresar a la seccion de Pedidos
+2.- Ingresar el Numero de pedido asignado
+3.- Si el numero de pedido es correcto mostrar el pedido
+4.- Si el numero de pedido es incorrecto mostrar que el pedido es erroneo o no existe.
+5.- Mostrar el estado del pedido, digitar los dias que pasaron desde que compro el producto
+6.- Si la fecha es menor de 3 días, sigue como pendiente
+7.- Si la fecha es de 5 dias mostrar en transito
+8.- Si la fecha es + de 5 dias mostrar como entregado
+8.- Fin del algoritmo.

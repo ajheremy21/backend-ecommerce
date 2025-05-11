@@ -1,0 +1,5 @@
+Revisar los pedidos
+Validar las direcciones de los clientes
+mostrar el usuario que lo compró
+Generar un número unico de pedido
+Luego de generar un número el siguiente pedido debe generar en secuencia
