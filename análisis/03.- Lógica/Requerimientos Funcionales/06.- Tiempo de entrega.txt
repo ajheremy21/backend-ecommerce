@@ -1,0 +1,5 @@
+Para calcular el tiempo de entrega del producto, se tiene que analizar
+la cantidad de productos adquiridos, el lugar del destino al que se va 
+a enviar, mientras la distancia se mas alejada de Lima, este tiempo de envio
+puede demorar mas dias para su entrega por temas de (Bus, logistica que se encargar de entregar el producto),
+El dia que se hizo la compra ( si se compró el domingo, este dia no cuenta como día habíl).
