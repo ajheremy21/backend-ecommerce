@@ -1,0 +1,10 @@
+1.- Solicitar al usuario el destino del envio
+2.- Definir los distritos con tarifa fija  y el costo del envio
+3.- Definir los costos para los distritos fuera de rango
+4.- Sumar un cargo adicional de S/ 10.00 si el envío es para provincias
+5.- Verificar si el destino es en distritos o provincias 
+6.- Si el destino es provincias incrementer el costo de envío + 10 soles
+7.- Si el destino es distritos, elegir un distritos
+8.- Si el distrito esta dentro del rango, costo fijo
+9.- Si el distrito es fuera del rango, incrementar a otro precio
+10.- Imprimir resumen de cargo por envío
