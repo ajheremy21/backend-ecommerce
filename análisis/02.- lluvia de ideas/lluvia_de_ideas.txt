@@ -1,4 +1,4 @@
-Para este proyecto opté por realizar un ecommerce sobre la venta de productos de limpieza.
+Para este proyecto opté por realizar un ecommerce sobre la venta de productos de tecnología.
 
 ¿Que funciones va a cumplir el proyecto?
 
@@ -15,8 +15,8 @@ Debe actualizarce el stock si algun producto fue comprado.
 Los usuarios no podran acceder si no ingresan con una contraseña correcta.
 
 ¿Qué voy a necesitar para realizar este proyecto backend?
-1) productos (Baños, Cocina, Piso, Prendas)
-2) Usuarios (Cliente, Vendedor, Administrador) 
+1) productos 
+2) Usuarios 
 3) Carrito de compras (agregar producto al carrito)
 4) Pagos
 5) Pedidos
