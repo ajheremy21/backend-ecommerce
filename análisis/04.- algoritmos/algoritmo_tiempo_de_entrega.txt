@@ -1,7 +1,0 @@
-1.- Introducir tu número de pedido.
-2.- Introducir la fecha de compra del pedido.
-3.- Introduce el destino de envío.
-4.- Si el pedido se encuentra en Lima, el tiempo de entrega es más rápido.
-5.- Si el pedido es a provincias, el tiempo va a demorar más para su entrega.
-6.- Si el pedido se compro en domingo, se sumará 1 día más.
-7.- Mostrar el tiempo que tardará en entregarse el pedido.

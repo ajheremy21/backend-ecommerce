@@ -1,6 +1,0 @@
-El costo de envio tambien se analizara dependiendo del destino, puede tener un precio
-fijo para ciertos distritos de Lima, pero para otros el precio puede variar(distritos 
-fuera del rango, provincias).
-Vamos a poner destinos predeterminados que el precio seria el mas bajo, mientras que al 
-resto se ira incrementando.
-Si el envio es a provincias, habra un cargo adicional de S/10.00 por el paquete de envio, fuera del costo de envio.
