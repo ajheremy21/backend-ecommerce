@@ -9,13 +9,13 @@ import verifyToken from '../middlewares/auth.middleware.js';
 
 const router = express.Router();
 
-// 🛒 Confirmar pedido desde carrito
+//  Confirmar pedido desde carrito
 router.post('/confirm', verifyToken, confirmarPedido);
 
-// 🔍 Ver pedidos del usuario
+//  Ver pedidos del usuario
 router.get('/usuario/:id', verifyToken, getPedidosPorUsuario);
 
-// 💳 Marcar como pagado
+//  Marcar como pagado
 router.put('/:id/pago', verifyToken, actualizarPago);
 
 export default router;
