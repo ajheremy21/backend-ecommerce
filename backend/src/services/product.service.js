@@ -19,7 +19,7 @@ const ProductService = {
   },
 
   patch: async (id, data) => {
-    return await Product.findByIdAndUpdate(id, data, { new: true });
+    return await Producto.findByIdAndUpdate(id, data, { new: true });
   },
 
   remove: async (id) => {
