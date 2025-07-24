@@ -2,7 +2,8 @@ import express from 'express';
 import {
   confirmarPedido,
   getPedidosPorUsuario,
-  actualizarPago
+  actualizarPago,
+  eliminarPedido
 } from '../controllers/order.controller.js';
 
 import verifyToken from '../middlewares/auth.middleware.js';
@@ -17,5 +18,8 @@ router.get('/usuario/:id', verifyToken, getPedidosPorUsuario);
 
 //  Marcar como pagado
 router.put('/:id/pago', verifyToken, actualizarPago);
+
+// Eliminar orden
+router.delete('/:id', verifyToken, eliminarPedido);
 
 export default router;
